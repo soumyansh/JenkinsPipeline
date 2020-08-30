@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="45439" started-at="2020-08-30T05:20:40Z" finished-at="2020-08-30T05:21:25Z">
+  <suite name="Suite" duration-ms="51357" started-at="2020-08-30T06:19:09Z" finished-at="2020-08-30T06:20:00Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="45439" started-at="2020-08-30T05:20:40Z" finished-at="2020-08-30T05:21:25Z">
+    <test name="Test" duration-ms="51357" started-at="2020-08-30T06:19:09Z" finished-at="2020-08-30T06:20:00Z">
       <class name="com.zoroz.testcases.LoginTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.zoroz.testcases.LoginTest@60f82f98]" name="setup" is-config="true" duration-ms="12588" started-at="2020-08-30T05:20:27Z" finished-at="2020-08-30T05:20:40Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.zoroz.testcases.LoginTest@60f82f98]" name="setup" is-config="true" duration-ms="16104" started-at="2020-08-30T06:18:53Z" finished-at="2020-08-30T06:19:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="doLogin(java.util.Hashtable)[pri:0, instance:com.zoroz.testcases.LoginTest@60f82f98]" name="doLogin" duration-ms="44804" started-at="2020-08-30T05:20:40Z" data-provider="dp" finished-at="2020-08-30T05:21:25Z">
+        <test-method status="PASS" signature="doLogin(java.util.Hashtable)[pri:0, instance:com.zoroz.testcases.LoginTest@60f82f98]" name="doLogin" duration-ms="49473" started-at="2020-08-30T06:19:09Z" data-provider="dp" finished-at="2020-08-30T06:19:58Z">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- doLogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.zoroz.testcases.LoginTest@60f82f98]" name="tearDown" is-config="true" duration-ms="850" started-at="2020-08-30T05:21:25Z" finished-at="2020-08-30T05:21:26Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.zoroz.testcases.LoginTest@60f82f98]" name="tearDown" is-config="true" duration-ms="3345" started-at="2020-08-30T06:20:00Z" finished-at="2020-08-30T06:20:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
