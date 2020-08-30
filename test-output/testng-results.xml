@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12673" started-at="2020-08-30T04:52:33Z" finished-at="2020-08-30T04:52:46Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="12673" started-at="2020-08-30T04:52:33Z" finished-at="2020-08-30T04:52:46Z">
+      <class name="com.zoroz.testcases.LoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.zoroz.testcases.LoginTest@589838eb]" name="setup" is-config="true" duration-ms="12316" started-at="2020-08-30T04:52:21Z" finished-at="2020-08-30T04:52:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="doLogin(java.util.Hashtable)[pri:0, instance:com.zoroz.testcases.LoginTest@589838eb]" name="doLogin" duration-ms="12250" started-at="2020-08-30T04:52:33Z" data-provider="dp" finished-at="2020-08-30T04:52:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Username=Admin, UserID=User1, Password=admin123}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.zoroz.testcases.LoginTest@589838eb]" name="tearDown" is-config="true" duration-ms="706" started-at="2020-08-30T04:52:46Z" finished-at="2020-08-30T04:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.zoroz.testcases.LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

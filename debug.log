@@ -1,0 +1,25 @@
+[0815/115937.749:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0815/120332.893:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0815/121245.635:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0815/121530.838:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0815/122346.492:ERROR:process_reader_win.cc(155)] SuspendThread: Access is denied. (0x5)
+[0815/122346.493:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0815/122346.496:ERROR:exception_snapshot_win.cc(99)] thread ID 6596 not found in process
+[0815/122346.510:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SOUMYA~1\AppData\Local\Temp\scoped_dir11148_237504760\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0815/122346.511:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SOUMYA~1\AppData\Local\Temp\scoped_dir11148_237504760\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0815/122346.511:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SOUMYA~1\AppData\Local\Temp\scoped_dir11148_237504760\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0815/122346.511:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SOUMYA~1\AppData\Local\Temp\scoped_dir11148_237504760\Crashpad\reports\c61b0f71-e68b-40d8-975d-d7c0b026e03b.dmp: The system cannot find the path specified. (0x3)
+[0815/122346.511:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0816/111129.473:ERROR:process_reader_win.cc(155)] SuspendThread: Access is denied. (0x5)
+[0816/111129.474:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0816/111129.476:ERROR:exception_snapshot_win.cc(99)] thread ID 12912 not found in process
+[0816/111129.496:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SOUMYA~1\AppData\Local\Temp\scoped_dir5380_125041441\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0816/111129.496:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SOUMYA~1\AppData\Local\Temp\scoped_dir5380_125041441\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0816/111129.496:ERROR:file_io_win.cc(161)] CreateFile C:\Users\SOUMYA~1\AppData\Local\Temp\scoped_dir5380_125041441\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0816/111129.496:ERROR:file_io_win.cc(170)] CreateFile C:\Users\SOUMYA~1\AppData\Local\Temp\scoped_dir5380_125041441\Crashpad\reports\69541934-6889-488f-b6a7-e87f2f34eb9d.dmp: The system cannot find the path specified. (0x3)
+[0816/111129.496:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0816/114459.861:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0816/114629.538:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0816/115048.675:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0816/122311.933:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0816/122352.050:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
