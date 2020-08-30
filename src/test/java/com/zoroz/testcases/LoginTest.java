@@ -27,7 +27,7 @@ public class LoginTest extends TestBase {
 			logger = extent.startTest("Login Test" + data.get("UserID"));
 			lp.doLogin(data.get("Username"), data.get("Password"));
 			hp.doLogout();
-			System.out.println("Hello ");
+			System.out.println("Hello world");
 			Thread.sleep(3000);
 		} catch (Exception e) {
 			logger.log(LogStatus.FAIL, "Failed with reason:" + e.getMessage());
